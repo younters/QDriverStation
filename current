@@ -1,0 +1,15 @@
+<!--Versions-->
+<latest-ios>0.12</latest-ios>
+<latest-mac>0.12</latest-mac>
+<latest-linux>0.12</latest-linux>
+<latest-android>0.12</latest-android>
+<latest-windows>0.12</latest-windows>
+<latest-windows-phone>0.12</latest-windows-phone>
+  
+<!--Download links-->
+<download-ios>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-ios>
+<download-mac>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-mac>
+<download-linux>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-linux>
+<download-android>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-android>
+<download-windows>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-windows>
+<download-windows-phone>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-windows-phone>

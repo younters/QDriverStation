@@ -1,15 +1,15 @@
 <!--Versions-->
 <latest-ios>0.12</latest-ios>
-<latest-linux>0.12</latest-linux>
+<latest-linux>0.13</latest-linux>
 <latest-android>0.12</latest-android>
-<latest-windows>0.12</latest-windows>
-<latest-macintosh>0.12</latest-macintosh>
+<latest-windows>0.13</latest-windows>
+<latest-macintosh>0.13</latest-macintosh>
 <latest-windows-phone>0.12</latest-windows-phone>
   
 <!--Download links-->
 <download-ios>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-ios>
-<download-linux>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-linux>
+<download-linux>https://github.com/WinT-3794/QDriverStation/archive/master.zip</download-linux>
 <download-android>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-android>
-<download-windows>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-windows>
-<download-macintosh>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-macintosh>
+<download-windows>http://sourceforge.net/projects/qdriverstation/files/beta-releases/0.13/qdriverstation-0.13-installer.exe/download</download-windows>
+<download-macintosh>http://sourceforge.net/projects/qdriverstation/files/beta-releases/0.13/qdriverstation-0.13-macintosh.zip/download</download-macintosh>
 <download-windows-phone>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-windows-phone>

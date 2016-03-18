@@ -47,6 +47,17 @@ linux:!android {
     desktop.files += $$PWD/etc/deploy/linux/qdriverstation.desktop
     INSTALLS += target desktop icon
 }
+bsd {
+    QMAKESPEC += freebsd-g++
+    target.path = /usr/local/bin
+    TARGET = qdriverstation
+    icon.path = /usr/local/share/pixmaps
+    desktop.path = /usr/local/share/applications
+    icon.files += $$PWD/etc/deploy/linux/qdriverstation.png
+    desktop.files += $$PWD/etc/deploy/linux/qdriverstation.desktop
+    INSTALLS += target desktop icon
+}
+
 
 #-------------------------------------------------------------------------------
 # Make options

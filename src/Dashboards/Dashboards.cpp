@@ -55,10 +55,10 @@
 
 #if defined Q_OS_WIN
 #define JAVA_OPEN "java -jar"
-#elif defined Q_OS_LINUX
-#define JAVA_OPEN "xdg-open"
 #elif defined Q_OS_MAC
 #define JAVA_OPEN "java -jar"
+#elif defined Q_OS_UNIX
+#define JAVA_OPEN "xdg-open"
 #endif
 
 //=============================================================================
